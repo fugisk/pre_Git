@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+  
+  <meta charset="utf-8">
+  <title>Any Smarties blog</title>
+
+  
+<!-- -link rel="stylesheet" type="text/css" href="style.css"-->
+</head><body>
+<div id="header"> <nav> </nav>
+<ul>
+  <li class="menu_item"> <a href="#">ZELENÍ</a> </li>
+  <li class="menu_item"> <a href="#">FOTOGRAFIE</a><a href="#"><img style="border: 0px solid ; width: 300px; height: 300px;" alt="obr" title="obrazok" src="file:///E:/obr_z_internetu/1/02.jpg" align="right"></a>
+  </li>
+  <li class="menu_item"> <a href="#">RÔZNE</a> </li>
+  <li id="any_smarties">
+    <div>INÉ</div>
+  </li>
+</ul>
+<ol>
+  <li class="menu_item"> <a href="#">FOTKY</a> </li>
+  <li class="menu_item"> <a href="#">HUBY</a> </li>
+  <li class="menu_item"> <a href="#">....</a> </li>
+</ol>
+</div>
+
+</body></html>
