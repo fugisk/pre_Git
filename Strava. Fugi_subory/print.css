@@ -1,0 +1,323 @@
+h1 {
+	margin: 0 0 5px 0;
+	padding: 8px 0 0 0;
+	font-size: 150%;
+}
+h2, h3, h4, h5, h6 {
+	margin: 0 0 2px 0;
+	padding: 5px 0 0 0;
+	font-size: 128%;
+}
+h3 {
+	font-size: 110%;
+}
+h4 {
+	font-size: 110%;
+}
+h5 {
+	font-size: 110%;
+}
+h6 {
+	font-size: 100%;
+}
+p {
+	margin: 0 0 8px 0;
+	overflow: hidden;
+}
+ul {
+	list-style: disc;
+}
+blockquote {
+	margin: 0 0 8px 0;
+	padding: 8px 25px;
+	font-style: italic;
+}
+table {
+	margin: 0 0 8px 0;
+	font-size: 100%;
+	border-collapse: collapse;
+}
+table.modernTable td {
+	padding: 4px 10px 3px 10px;
+	border: 1px solid rgb(0,0,0);
+}
+a {
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+ins {
+	text-decoration: none !important;
+}
+img {
+	margin: 0.5em;
+	border: 1px solid rgb(0,0,0);
+}
+hr {
+	height: 0;
+	margin-left: 0;
+	margin-right: 0;
+	background: 0;
+	border-width: 0 1px 1px 1px;
+	border-style: solid;
+	border-color: rgb(0,0,0);
+}
+body {
+	font: 0.9em Verdana, Tahoma, Arial sans-serif;
+	color: rgb(0,0,0);
+}
+.noDis {
+	display: none;
+}
+.cleaner {
+	clear: both;
+	height: 1px;
+	line-height: 1px;
+	overflow: hidden;
+}
+#logo {
+	font-size: 282%;
+}
+#logo a, #logo span {
+	text-decoration: none;
+	font-weight: bold;
+}
+#illustration img {
+	display: none;
+}
+#illustration h3 {
+	font-size: 147%;
+	font-weight: bold;
+}
+#pageNavigator {
+	border-bottom: 2px solid #000;
+}
+#pageNavigator p {
+	padding: 8px 0;
+}
+#pageNavigator a {
+	font-weight: bold;
+}
+#pageNavigator span {
+	margin: 0 7px;
+}
+#pageNavigator span#navCurrentPage {
+	margin: 0;
+}
+#pageNavigator span span {
+	margin: 0;
+}
+.menu {
+	display: none;
+}
+#quick {
+	display: none;
+}
+.heading {
+	font-weight: bold;
+	font-size: 128%;
+}
+#footer {
+	padding: 10px 0 0 0;
+	border-top: 2px solid #000;
+}
+.box {
+	margin: 0 0 40px 0;
+}
+form {
+	margin: 0;
+}
+fieldset {
+	margin: 0;
+	padding: 0 10px 10px 10px;
+	border: 1px solid rgb(0,0,0);
+}
+legend {
+	display: none;
+}
+form .item {
+	clear: both;
+	margin: 8px 0 0 0;
+	padding: 0;
+}
+form div.submit {
+	clear: both;
+	margin: 8px 0 0 0;
+	text-align: right;
+}
+label {
+	float: left;
+	width: 200px;
+	width: 49%;
+	margin: 4px 5px 0 0;
+	overflow: hidden;
+}
+label {
+	font-weight: bold;
+}
+input, textarea, select {
+	float: left;
+	width: 49%;
+	font-size: 110%;
+}
+textarea {
+	height: 100px;
+	overflow: auto;
+}
+input.checkbox, input.radio {
+	margin-left: 3px;
+}
+input.submit {
+	width: auto !important;
+	font-weight: bold;
+	border: 1px solid rgb(0,0,0);
+}
+.error {
+	font-weight: bold;
+}
+.error ul li span {
+	font-weight: normal;
+}
+#search {
+	display: none;
+}
+.sitemap ul li a {
+	font-weight: normal;
+}
+.contact address {
+	margin: 0;
+	padding: 10px 0;
+	font-style: normal;
+}
+.contact strong, .contact .address, .contact .phone, .contact .email {
+	display: block;
+	margin-bottom: 1em;
+}
+.contact img {
+	display: none;
+}
+.thumbnail img {
+	border: 1px solid rgb(0,0,0);
+}
+.link {
+	margin: 0;
+}
+.link a {
+	padding: 0 8px 0 0;
+	font-weight: bold;
+}
+.back {
+	display: none;
+}
+.searching form {
+	margin: 0 0 10px 0;
+}
+.searching form .item {
+	clear: none;
+	float: left;
+	width: 45%;
+	margin: 8px 0 0 0;
+}
+.searching form div.submit {
+	clear: none;
+	margin: 21px 0 0 0;
+	text-align: right;
+}
+.searching label {
+	width: 100%;
+	margin: 0 0 2px 0;
+}
+.searching input {
+	float: left;
+	width: 90%;
+}
+.searching select {
+	float: left;
+	width: 90%;
+}
+.searching .info {
+	margin: 0 0 8px 0;
+	text-align: right;
+	font-weight: bold;
+}
+.photogallery .link {
+	display: none;
+}
+.detail .photo {
+	margin: 0 0 17px 0;
+}
+.discussion .post {
+	margin: 0 0 4px 160px;
+	padding: 10px 3px 8px 3px;
+	border: 1px solid rgb(0,0,0);
+}
+.discussion form .item {
+	margin: 8px 0 0 0;
+	padding: 0;
+	background: 0;
+	border: 0;
+}
+.discussion .level-1 {
+	margin-left: 0;
+}
+.discussion .level-2 {
+	margin-left: 40px;
+}
+.discussion .level-3 {
+	margin-left: 80px;
+}
+.discussion .level-4 {
+	margin-left: 120px;
+}
+.discussion .date, .discussion .author {
+	margin: 0 0 2px 0;
+}
+.discussion .date ins, .discussion .author b {
+	font-weight: bold;
+	font-style: italic;
+}
+.discussion .heading {
+	margin: 0 0 4px 0;
+	font-size: 100%;
+	font-weight: normal;
+}
+.discussion .heading a {
+	font-weight: bold;
+}
+.discussion .link {
+	text-align: right;
+}
+.discussion .link a {
+	margin: 0 10px 0 0;
+}
+.poll .pollbar {
+	display: block;
+	margin: 4px 0 0 0;
+}
+.poll .pollbar img {
+	margin: 0;
+	border: 1px solid rgb(0,0,0);
+}
+.pagination .paging {
+	text-align: right;
+}
+.pagination .info {
+	float: left;
+	width: 250px;
+	text-align: left;
+}
+.pagination .paging a {
+	margin: 0 4px;
+}
+.pagination .paging .selected {
+	margin: 0 3px;
+	font-weight: bold;
+}
+.pagination .paging .left {
+	margin: 0 4px 0 0;
+}
+.pagination .paging .right {
+	margin: 0 0 0 4px;
+}
+.pagination .paging .leftEnd, .pagination .paging .rightEnd {
+	margin: 0;
+}
